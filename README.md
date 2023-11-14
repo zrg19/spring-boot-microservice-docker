@@ -8,6 +8,7 @@ Welcome to the Microservices Architecture application! This project showcases a 
 
 Before you begin, ensure you have the following installed:
 
+- [JavaJDK 17](https://openjdk.org/projects/jdk/17)
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
