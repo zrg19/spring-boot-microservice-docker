@@ -4,6 +4,8 @@
 
 Welcome to the Microservices Architecture application! This project showcases a robust system built using Spring Boot 3, Spring Cloud, Docker, and various databases for microservices communication.
 
+![img.png](img.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
