@@ -60,7 +60,7 @@ Once the services are up and running, you can access the following services:
     - http://localhost:8761
 
 - **API Gateway:**
-    - http://localhost:8080
+    - http://localhost:8181
 
 - **Zipkin Tracing:**
     - http://localhost:9411
