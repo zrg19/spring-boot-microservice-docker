@@ -77,7 +77,3 @@ docker-compose down
 Feel free to contribute and enhance this Microservices Architecture. Submit pull requests, report issues, or share your feedback.
 
 Happy coding! 🚀
-
----
-
-Make sure to replace "your-username" with your actual GitHub username in the clone command. Additionally, update the README with any specific information about environment variables, configuration files, or other details necessary for running the application.
