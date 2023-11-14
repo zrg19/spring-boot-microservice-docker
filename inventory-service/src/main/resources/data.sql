@@ -1,0 +1,1 @@
+dCREATE DATABASE IF NOT EXISTS 'inventory-service';
